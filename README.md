@@ -9,3 +9,5 @@ Conky: [Now-Clocking](https://github.com/rayzr522/now-clocking)
 
 
 use start.sh from code file for more brown coloring
+
+coffee.txt is an ascii art file for sourcing with Neofetch.
