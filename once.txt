@@ -1,1 +1,17 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?968767EBDA66D0B1CBB828A936A2C823D666
+
+To Whom It May Concern,
+
+I am writing to provide a strong recommendation for Rachit Gandhi, who worked as a vital member of the Industry 4.0 team at KPMG in Gurugram. During their tenure, Rachit Gandhi exhibited exceptional skills and dedication in the realm of cutting-edge technology implementation and artificial intelligence.
+
+Part of a cross-functional team consisting of co-interns from the fields of Consultancy and Mechanical Engineering, Rachit Gandhi showcased remarkable collaboration skills. Their project focused on enhancing wind farm power forecast accuracy by implementing advanced AI methodologies. The primary goal was to predict power output within 45-minute intervals for a span of 2-3 days, enabling better power output estimation and informed maintenance decisions.
+
+Rachit Gandhi demonstrated a comprehensive understanding of data preprocessing techniques and feature engineering, ensuring a high-quality dataset for analysis. They successfully identified relevant statistical features and employed innovative methods to address missing values, using a rolling median approach that upheld data integrity. Beyond that various state of the art methods like  Tabnet, CNN, and XGBoost were deployed to tackle non-linear correlations within the dataset. 
+
+In the realm of time series forecasting, Rachit Gandhi showcased expertise in applying modern methods involving transformers and attention mechanisms. These cutting-edge techniques culminated in an impressive 80% accuracy rate in one-step predictions, underscoring their proficiency in tackling complex data patterns. Their ingenuity was particularly evident in the development of an ensemble feature extraction approach, contributing to the enhancement of overall model performance. Their accomplishments extended beyond the theoretical realm, as they successfully navigated intricate weather patterns and curtailment issues within the Kelmarsh dataset, based in UK.
+
+Throughout the project, Rachit Gandhi upheld the highest level of professionalism and adhered to industry best practices. Their commitment to excellence was evident in their role as a major contributor to the final product delivery of a modular codebase, showcasing their dedication to producing quality results available on GitHub.
+
+In conclusion, I wholeheartedly recommend Rachit Gandhi for any future endeavors. Their blend of technical proficiency, intelligence, business value and commitment to innovation makes them a standout candidate in the field of research and artificial intelligence. I am confident that Rachit Gandhi will continue to excel and make valuable contributions wherever their journey takes them.
+
+Sincerely,
+
